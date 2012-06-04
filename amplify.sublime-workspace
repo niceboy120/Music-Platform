@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"version",
+				"version	@version"
+			],
+			[
+				"filesource",
+				"filesource	@filesource"
+			],
+			[
+				"current",
+				"current_namespace"
+			],
+			[
+				"curr",
+				"current_namespace"
+			],
+			[
+				"Con",
+				"ConfigFileNotFoundException"
+			],
+			[
+				"fig",
+				"figureOutServer"
+			],
+			[
+				"toke",
+				"token_credentials"
+			],
+			[
+				"genera",
+				"generate_filename"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"_f",
+				"_file_contents"
+			],
+			[
+				"_",
+				"_basePath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 136.0,
+		"selected_items":
+		[
+			[
+				"fetch",
+				"Fetch"
+			],
+			[
+				"fetct",
+				"Fetch: Manage remote files"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"DIABLE",
+				"Package Control: Disable Package"
+			],
+			[
+				"DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fetc",
+				"Fetch"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"js",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"j",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"template",
+				"Create file from Template"
+			],
+			[
+				"fileTem",
+				"Create file from Template"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"s php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/node_projects/realtime-example/routes/index.js",
+		"/C/node_projects/realtime-example/app.js",
+		"/C/node_projects/realtime-example/public/javascripts/app.js",
+		"/C/node_projects/realtime-example/views/layout.jade",
+		"/C/node_projects/realtime-example/node_modules/now/examples/helloworld_example/helloworld.html",
+		"/C/node_projects/realtime-example/node_modules/now/lib/now.js",
+		"/C/node_projects/realtime-example/node_modules/now/lib/client/now.js",
+		"/C/node_projects/realtime-example/node_modules/now/examples/helloworld_example/helloworld_server.js",
+		"/C/node_projects/realtime-example/public/stylesheets/style.styl",
+		"/C/node_projects/realtime-example/public/stylesheets/style.css",
+		"/C/node_projects/electro/config/environment.js",
+		"/C/node_projects/electro/public/stylesheets/style.styl",
+		"/C/wamp/www/mvc/Packages/Pulse/Classes/Error.php",
+		"/C/wamp/www/pulse/Public/index.php",
+		"/C/wamp/www/mvc/Public/index.php",
+		"/C/wamp/www/mvc/Packages/Pulse/Classes/Pulse.php",
+		"/C/wamp/www/mvc/Packages/Pulse/Classes/Autoloader.php",
+		"/C/wamp/www/pulse/README.md",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/admin.php",
+		"/C/wamp/www/fuel/public/assets/js/app/home.js",
+		"/C/wamp/www/fuel/public/assets/js/templates/music_item.ejs",
+		"/C/wamp/www/fuel/fuel/app/views/welcome/index.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/notify.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/welcome.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/classes/notification.php",
+		"/C/wamp/www/fuel/fuel/app/views/music/index/index.php",
+		"/C/wamp/www/fuel/public/assets/css/design.css",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/music.php",
+		"/C/wamp/www/fuel/public/assets/js/bootstrap.js",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/base/base.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/base/app.php",
+		"/C/wamp/www/fuel/fuel/app/views/template/admin.php",
+		"/C/wamp/www/fuel/public/assets/css/app.css",
+		"/C/wamp/www/fuel/fuel/app/views/auth/login.php",
+		"/C/wamp/www/fuel/public/assets/js/app/login.js",
+		"/C/wamp/www/fuel/public/assets/js/app/app.js",
+		"/C/wamp/www/fuel/public/assets/js/jquery.esn.autobrowse.js",
+		"/C/Users/Daniel/AppData/Local/Temp/Rar$DR03.964/view.js",
+		"/C/wamp/www/fuel/public/assets/js/app/library.js",
+		"/C/wamp/www/fuel/public/assets/js/app/test.js",
+		"/C/wamp/www/fuel/fuel/app/views/admin/login.php",
+		"/C/Backups/www/fuel/public/assets/css/design.css",
+		"/C/wamp/www/dub-level-hmvc/assets/css/design.css",
+		"/C/wamp/www/fuel/public/assets/css/bootstrap.css",
+		"/C/wamp/www/dl/Complete/home.html",
+		"/C/wamp/www/fuel/public/assets/js/app/base.js",
+		"/C/wamp/www/fuel/public/assets/js/app/initialize.js",
+		"/C/Users/Daniel/AppData/Local/Temp/fz3temp-1/application.php",
+		"/C/wamp/www/fuel/public/assets/js/app/history.js",
+		"/C/wamp/www/fuel/fuel/app/views/template/admin/login.php",
+		"/C/wamp/www/dl/Complete/static/demo/ajax.html",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/template.php",
+		"/C/wamp/www/dub-level-hmvc/application/modules/auth/views/email/welcome-txt.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/user.php",
+		"/C/wamp/www/fuel/fuel/packages/auth/classes/auth/login/simpleauth.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/welcome.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/access.php",
+		"/C/wamp/www/dub-level-hmvc/application/modules/auth/views/email/welcome-html.php",
+		"/C/wamp/www/fuel/fuel/packages/email/config/email.php",
+		"/C/wamp/www/fuel/fuel/app/config/routes.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/user/logout.php",
+		"/C/wamp/www/fuel/fuel/app/config/config.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/register.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/recent_posts.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/comment_reply.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/views/email/forgot_password.php",
+		"/C/wamp/www/fuel/fuel/app/views/user/notification.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/base/admin.php",
+		"/C/wamp/www/fuel/public/assets/js/app/three.js",
+		"/C/Backups/www/fuel/fuel/app/classes/controller/site.php",
+		"/C/Backups/www/fuel/fuel/app/classes/controller/base.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/config/notification.php",
+		"/C/wamp/www/fuel/fuel/packages/notification/bootstrap.php",
+		"/C/wamp/www/fuel/fuel/app/views/template/app.php",
+		"/C/wamp/www/fuel/fuel/app/views/template/home.php",
+		"/C/wamp/www/dl/Complete/login.html",
+		"/C/wamp/www/fuel/public/assets/css/app/app.css",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/user/dashboard.php",
+		"/C/wamp/www/fuel/fuel/app/views/search.php",
+		"/C/wamp/www/fuel/fuel/app/views/auth/register.php",
+		"/C/wamp/www/fuel/fuel/app/classes/model/dashboard.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/charts.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/partner.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/search.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/auth.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/admin/artists.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/admin/comments.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/admin/items.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/admin/posts.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/register.php",
+		"/C/wamp/www/dl/README.md",
+		"/C/wamp/www/fuel/fuel/app/views/music/track.php",
+		"/C/wamp/www/dub-level-hmvc/application/modules/comment/views/comments-loop.php",
+		"/C/wamp/www/fuel/fuel/app/classes/model/post.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/site.php",
+		"/C/wamp/www/fuel/fuel/app/classes/model/user.php",
+		"/C/wamp/www/fuel/fuel/app/views/home_template.php",
+		"/C/wamp/www/dub-level-hmvc/application/views/templates/design/index.php",
+		"/C/wamp/www/dub-level-hmvc/assets/js/mvc/dublevel/player/player.js",
+		"/C/wamp/www/dub-level-hmvc/assets/js/mvc/player/player/player.js",
+		"/C/wamp/www/dub-level-hmvc/assets/js/mvc/dublevel/player/views/build.ejs",
+		"/C/wamp/www/fuel/fuel/app/classes/model/comment.php",
+		"/C/wamp/www/dub-level-hmvc/application/helpers/app_helper.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/music/index.php",
+		"/C/wamp/www/fuel/fuel/app/classes/model/item.php",
+		"/C/wamp/www/fuel/fuel/app/views/admin/artists/edit.php",
+		"/C/wamp/www/fuel/fuel/app/views/admin/template.php",
+		"/C/wamp/www/fuel/fuel/app/views/admin/artists/create.php",
+		"/C/wamp/www/fuel/fuel/app/views/admin/artists/_form.php",
+		"/C/wamp/www/fuel/fuel/app/views/admin/artists/view.php",
+		"/C/wamp/www/fuel/fuel/packages/auth/config/auth.php",
+		"/C/wamp/www/fuel/fuel/packages/auth/config/simpleauth.php",
+		"/C/wamp/www/fuel/fuel/app/config/development/db.php",
+		"/C/wamp/www/dublevel/fuel/app/views/welcome/404.php",
+		"/C/wamp/www/dublevel/fuel/app/classes/controller/welcome.php",
+		"/C/wamp/www/dublevel/public/assets/css/design.css",
+		"/C/wamp/www/fuel/fuel/app/views/welcome/404.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/dublevel/fuel/app/views/templates/base.php",
+		"/C/wamp/www/fuel/fuel/app/classes/controller/base.php",
+		"/C/wamp/www/dublevel/fuel/app/classes/controller/base.php",
+		"/C/wamp/www/dublevel/fuel/app/views/welcome/index.php",
+		"/C/wamp/www/dublevel/public/assets/css/bootstrap.css",
+		"/C/wamp/www/fuel/fuel/app/views/template.php",
+		"/C/wamp/www/dublevel/fuel/app/classes/controller/extend/base.php",
+		"/C/wamp/www/dublevel/fuel/app/config/config.php",
+		"/C/Users/Daniel/AppData/Local/Temp/Rar$DR18.268/fuelphp-v1.1/fuel/app/config/config.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loading",
+			"<",
+			"welcome",
+			".avatar",
+			"avatar",
+			"genre-list",
+			"community_gallery_item",
+			"genre-box",
+			"inner",
+			"item",
+			"music",
+			"m-item-info",
+			"ratings",
+			"ratings-thumpsup",
+			"music",
+			"music-container",
+			"tap",
+			"elem",
+			"hash",
+			"$.change",
+			"$.change(url, caption);",
+			"$.change",
+			"hash",
+			"initializeLogin",
+			"data-username",
+			"$(\"body\").addClass(\"welcome\").append('<div id=\"overlays\"></div>');",
+			"background",
+			"tap",
+			"tool",
+			"users",
+			"initialize",
+			"Welcome to the Dashboard",
+			"instance",
+			"get",
+			"get_current",
+			"notification",
+			"three",
+			"alert",
+			"window.location.hash",
+			"change",
+			"$.change",
+			"avatar",
+			"images",
+			"time-left",
+			"contents-right",
+			"#extra",
+			"extra",
+			"image",
+			"topbar",
+			"topbar-button",
+			"topbar-button-action-ui",
+			"contents-",
+			"contents-l",
+			"player",
+			"content",
+			"box",
+			"content",
+			"Pulse",
+			"staticfunction",
+			"	",
+			"and",
+			" and Request::active()->controller != 'Controller_Login'",
+			"css_render_inline",
+			"css",
+			"getAccessKey",
+			"function get",
+			"get()",
+			"get",
+			"setAccessTokens",
+			"tweetOauth",
+			"h1",
+			"0",
+			"launch",
+			");",
+			"username",
+			"footer",
+			"pink",
+			";",
+			"m-i",
+			"echo",
+			"();",
+			"echo",
+			"						$",
+			"beaconpush",
+			"form",
+			"logout",
+			"slideOut-innerContent",
+			"220px",
+			"layer",
+			"thing",
+			"thingy",
+			"pl",
+			"player",
+			"));",
+			"20px",
+			"overflow",
+			"{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/pulse/Public/pulseFramework.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}
